@@ -4,4 +4,4 @@ O'ZBEKISTON RESPUBLIKASI O'SIMLIKLAR KARANTINI VA HIMOYASI AGENTLIGI
 
 
 <br>
-karantin.uz
+https://karantin.uz
