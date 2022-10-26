@@ -4,7 +4,7 @@ O'ZBEKISTON RESPUBLIKASI O'SIMLIKLAR KARANTINI VA HIMOYASI AGENTLIGI
 
 
 <br>
-[https://karantin.uz](https://karantin.uz/uz/menu/agentlik-haqida)
+https://karantin.uz/uz/menu/agentlik-haqida
 <br>
 More:
 <br>
